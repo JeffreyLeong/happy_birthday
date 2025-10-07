@@ -1,0 +1,19 @@
+/* Center everything horizontally and vertically */
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  background: #fff8e1;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #d84315;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0;
+}
